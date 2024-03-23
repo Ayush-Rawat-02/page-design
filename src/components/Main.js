@@ -1,3 +1,4 @@
+"use client"
 import { useState } from "react";
 import Discussion from "./Discussion";
 import Sidebar from "./Sidebar";
